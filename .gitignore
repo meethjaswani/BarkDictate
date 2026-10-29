@@ -1,0 +1,11 @@
+# Model weights (download with ./download-model.sh)
+model/
+# Your dictation log: contains everything you've said
+bark.log
+# Build output
+app/.build/
+.venv-download/
+# Local scratch
+backup/
+test/
+.DS_Store
