@@ -9,3 +9,5 @@ app/.build/
 backup/
 test/
 .DS_Store
+# Claude Code worktrees
+.claude/
